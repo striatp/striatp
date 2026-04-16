@@ -1,16 +1,19 @@
-## Hi there 👋
+## Preferred Stacks
+- **Go**: Primary language I main for backend systems, tooling and general coding.
+- **Assembly**: I only use it to experiment with low-level stuff.
+- **C / C++**: Low-level and performance-oriented stuff.
+- **TypeScript**: Occasional tooling and utilities, I sometimes make NPM packages.
+- **PowerShell**: Automation on Windows environments.
 
-<!--
-**striatp/striatp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolchain
+- **Zed / Neovim**: Primary editors for development, I primarily use Zed IDE.
+- **Git & GitHub**: Verison control and collaboration.
+- **Golang toolchain**: `go fmt` & `gofmt`, `go test`, `go mod`
+- **Bash / PowerShell**: Scripting and automation.
 
-Here are some ideas to get you started:
+## External Links:
+- **Octovel organisation**: Small group of volunteers building open-source tools.
+  - https://octovel.org
+  - https://github.com/octovel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Note: I will **always** add a disclaimer for AI-generated content*
